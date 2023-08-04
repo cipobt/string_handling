@@ -1,8 +1,8 @@
-## Magic String Vanisher
+# Magic String Vanisher
 
 This is a simple Python program that allows users to manipulate a string by making certain characters disappear. It employs basic string manipulation methods to perform the operation.
 
-# How it works
+## How it works
 
 1. The user is asked to input a string (sentence) that they would like to experiment on.
 2. The program will then prompt the user to input characters they would like to make disappear from the string.
