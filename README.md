@@ -25,9 +25,8 @@ This program does not have any special requirements. It is built using standard 
 3. Navigate to the directory containing the Python file.
 4. Run the following command to execute the program:
 ```
-python filename.py
+python disappear.py
 ```
-Remember to replace "filename.py" with the actual filename of the Python script.
 
 ## Contribution
 
